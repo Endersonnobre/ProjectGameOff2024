@@ -26,6 +26,7 @@ namespace ProjectGameOff2024
         protected override void LoadContent()
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
+            Conte
 
             // TODO: use this.Content to load your game content here
         }
